@@ -2,11 +2,11 @@ package com.vtiger.org;
 
 import org.testng.annotations.Test;
 
-public class createOrg {
+public class createContactTest {
 
 	@Test
 	public void test()
 	{
-		
+		System.out.println("contact created successfully");
 	}
 }
