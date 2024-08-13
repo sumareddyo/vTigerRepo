@@ -8,5 +8,6 @@ public class createContactTest {
 	public void test()
 	{
 		System.out.println("contact created successfully");
+		System.out.println("ele2 is added");
 	}
 }
