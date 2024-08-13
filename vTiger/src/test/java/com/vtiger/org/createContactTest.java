@@ -9,5 +9,6 @@ public class createContactTest {
 	{
 		System.out.println("contact created successfully");
 		System.out.println("ele2 is added");
+		System.out.println("ele3 is added");
 	}
 }
